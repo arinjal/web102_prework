@@ -29,7 +29,7 @@ While building and adding functionaility to this website the main problems I enc
 
 ## License
 
-    Copyright 2024 Arin J. Curry
+    Copyright 2025 Arin J. Curry
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
