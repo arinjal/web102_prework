@@ -19,9 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='Kapture 2024-02-05 at 05.25.53.gif ' title= 'Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with Kap 
+<img src="gif/WEB102GIF.gif" title= 'Video Walkthrough' alt='Video Walkthrough' />
+ 
 
 ## Notes
 
@@ -29,7 +28,7 @@ While building and adding functionaility to this website the main problems I enc
 
 ## License
 
-    Copyright 2024 Arin J. Curry
+    Copyright 2025 Arin J. Curry
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
